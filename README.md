@@ -1,2 +1,1 @@
 # AKAsyncImagesTableCollection-Swift
-# AKAsyncImagesTableCollection-Swift
